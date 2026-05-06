@@ -2,7 +2,6 @@
 
 # Steps to setup streamlit
 
-hi
 
 ## Mac
 
